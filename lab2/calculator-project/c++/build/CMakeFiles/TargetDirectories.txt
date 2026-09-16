@@ -1,0 +1,5 @@
+C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/CMakeFiles/calculator.dir
+C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/CMakeFiles/calculator_autogen_timestamp_deps.dir
+C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/CMakeFiles/calculator_autogen.dir

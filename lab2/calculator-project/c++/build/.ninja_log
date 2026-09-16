@@ -1,0 +1,16 @@
+# ninja log v6
+22	7649	8106459999450235	calculator_autogen/timestamp	5fc446de5fc34a52
+22	7649	8106459999450235	calculator_autogen/mocs_compilation.cpp	5fc446de5fc34a52
+22	7649	8106459999450235	C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/calculator_autogen/timestamp	5fc446de5fc34a52
+22	7649	8106459999450235	C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/calculator_autogen/mocs_compilation.cpp	5fc446de5fc34a52
+7755	12217	8106460002147368	CMakeFiles/calculator.dir/main.cpp.obj	436a2f63daa2e6c2
+7713	12650	8106460001731428	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj	a77eb8498ad8f028
+7740	14084	8106460002001807	CMakeFiles/calculator.dir/MainWindow.cpp.obj	99dfe5deb1c35bb2
+7726	14782	8106460001865522	CMakeFiles/calculator.dir/Calculator.cpp.obj	bee00a6e1298c342
+14783	16545	8106460072426548	calculator.exe	a42a61eae331ce8e
+60	492	8106463565528793	calculator_autogen/timestamp	5fc446de5fc34a52
+60	492	8106463565528793	calculator_autogen/mocs_compilation.cpp	5fc446de5fc34a52
+60	492	8106463565528793	C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/calculator_autogen/timestamp	5fc446de5fc34a52
+60	492	8106463565528793	C:/Users/Asus/Desktop/Software-Test-Course/Lab1-4/calculator-project/build/calculator_autogen/mocs_compilation.cpp	5fc446de5fc34a52
+494	5211	8106463569874028	CMakeFiles/calculator.dir/MainWindow.cpp.obj	99dfe5deb1c35bb2
+5211	6765	8106463617040769	calculator.exe	a42a61eae331ce8e

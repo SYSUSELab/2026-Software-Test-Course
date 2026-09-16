@@ -1,0 +1,125 @@
+/* 对应 style.css: body 样式，还原 Image 2 的柔和紫色/蓝紫背景 */
+QWidget#centralWidget {
+    background: #606fe8;
+    font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+}
+
+/* 对应 style.css: .calculator 白色卡片容器 */
+QFrame#calculator {
+    background: #ffffff;
+    border-radius: 24px;
+}
+
+/* 对应 style.css: .display 顶部显示屏 */
+QFrame#display {
+    background: #2c3748;
+    border-radius: 16px;
+}
+
+/* 对应 style.css: .history 历史表达式 */
+QLabel#history {
+    font-size: 14px;
+    color: #a0aec0;
+    min-height: 18px;
+}
+
+/* 对应 style.css: .current 当前数字 */
+QLabel#current {
+    font-size: 34px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* 对应 style.css: .error */
+QLabel#current[error="true"] {
+    color: #e74c3c;
+}
+
+/* 对应 style.css: .btn 基础按键 */
+QPushButton {
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    outline: none;
+}
+
+/* 对应 style.css: .btn-number 数字键 (柔和天蓝) */
+QPushButton[btnClass="btn-number"] {
+    background: #4e8fd4;
+}
+QPushButton[btnClass="btn-number"]:hover {
+    background: #3f7ec1;
+}
+QPushButton[btnClass="btn-number"]:pressed {
+    background: #336da9;
+}
+
+/* 对应 style.css: .btn-operator 运算符 (暖珊瑚红) */
+QPushButton[btnClass="btn-operator"] {
+    background: #d05344;
+}
+QPushButton[btnClass="btn-operator"]:hover {
+    background: #bd4638;
+}
+QPushButton[btnClass="btn-operator"]:pressed {
+    background: #a83b2e;
+}
+
+/* 对应 style.css: .btn-function 功能键 (灰绿石板灰) */
+QPushButton[btnClass="btn-function"] {
+    background: #8fa1a4;
+}
+QPushButton[btnClass="btn-function"]:hover {
+    background: #7e8f92;
+}
+QPushButton[btnClass="btn-function"]:pressed {
+    background: #6d7d80;
+}
+
+/* 对应 style.css: .btn-scientific 科学函数键 (柔和兰花紫) */
+QPushButton[btnClass="btn-scientific"] {
+    background: #8e54a8;
+    font-size: 14px;
+}
+QPushButton[btnClass="btn-scientific"]:hover {
+    background: #7e4697;
+}
+QPushButton[btnClass="btn-scientific"]:pressed {
+    background: #6d3a84;
+}
+
+/* 对应 style.css: .btn-equals 等号键 (清爽草绿) */
+QPushButton[btnClass="btn-equals"] {
+    background: #52ab67;
+}
+QPushButton[btnClass="btn-equals"]:hover {
+    background: #459959;
+}
+QPushButton[btnClass="btn-equals"]:pressed {
+    background: #39854b;
+}
+
+/* 对应 style.css: .btn-mode 模式切换按钮 (暖琥珀黄) */
+QPushButton#btnMode {
+    background: #e59838;
+    color: #ffffff;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+QPushButton#btnMode:hover {
+    background: #d4882b;
+}
+QPushButton#btnMode:pressed {
+    background: #c0771f;
+}
+
+/* 对应 style.css: .mode-indicator 模式指示文本 */
+QLabel#modeIndicator {
+    font-size: 15px;
+    color: #2c3748;
+    font-weight: bold;
+}
